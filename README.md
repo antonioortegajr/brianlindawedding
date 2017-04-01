@@ -1,2 +1,2 @@
 # brianlindawedding
-site for brian and linda's wedding
+Site files for brian and linda's wedding.
